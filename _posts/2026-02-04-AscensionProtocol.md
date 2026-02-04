@@ -1,7 +1,7 @@
 ---
 
 title: Ascension Protocol, made on custom VR ECS and OpenXR engine.
-date: 2026-02-04 HH:MM:SS +/-TTTT
+date: 2026-02-04 +0800
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 
